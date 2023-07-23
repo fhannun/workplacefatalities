@@ -4,6 +4,6 @@ Using Power BI, this project aims to identify a correlation between workplace fa
 
 ## Conclusions
 - The states who are on a Federal Program had more fatalities than those who were on a State program.
-- The states who are on a State Program had more penalties than those on a Federal Program
-- California took the lead for the most injuries/illnesses from both the Federal and State Program
-- Wyoming had the least amount of injuries/illnesses from both the Federal and State program
+- The states who are on a State Program had more penalties than those on a Federal Program.
+- California took the lead for the most injuries/illnesses from both the Federal and State Program.
+- Wyoming had the least amount of injuries/illnesses from both the Federal and State program.
